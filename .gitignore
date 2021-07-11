@@ -1,0 +1,35 @@
+# Packages
+*.egg
+*.egg-info
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+node_modules
+__pycache__
+
+# Static
+static/
+
+# Virtual Environment
+venv/
+env/
+
+# Translations
+.idea
+*~
+*.swp
+*.swo
+*#*
+.DS*
+
+# Logs
+*.log
+
+
